@@ -1,6 +1,6 @@
-===================
+
 FiveM Racing Chaos Mod Script
-===================
+
 
 This is the first FiveM Script I co-made with my friend! There may be a few issues, so please let me know if you notice any. Since I'm new to this and I'm still learning the coding language LUA, please be kind :) 
 
@@ -10,9 +10,9 @@ Bayblade Spinout is not being smooth. - I have no Idea How to fix!
 
 This Script is Open Source, so please feel free to edit it as you like! My Discord is Willp#4981, so if you have any improvements, I'll be glad to upload and make them available for other people.
 
-===============
+
 How to Install
-===============
+
 
 1: Download the [Latest Release](https://github.com/WillpOnGitHub/fivem-chaosmod/releases/) 
 2: Extract the file
