@@ -24,3 +24,5 @@ There you have it, a Racing Chaos Mod in FiveM!
 Issues I'm aware of and am trying to fix: (Or I don't know how to fix)
 
 Bayblade Spinout is not being smooth. - I have no Idea How to fix!
+
+This is a FREE Script. Please do not reupload my work!
